@@ -1,2 +1,2 @@
-# dataCamp-Investigating-Neflix-Movies
+# Investigating-Neflix-Movies
 Are movies becoming shorter?
